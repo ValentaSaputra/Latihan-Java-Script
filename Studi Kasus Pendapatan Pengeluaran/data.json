@@ -1,0 +1,36 @@
+{
+   "incomes": [
+      {
+         "name": "gaji bulan",
+         "total": 5000,
+         "category": "income"
+      },
+      {
+         "name": "uang cair",
+         "total": 3000,
+         "category": "income"
+      },
+      {
+         "name": "gaji",
+         "total": 4000,
+         "category": "income"
+      }
+   ],
+   "expenses": [
+      {
+         "name": "bayar listrik",
+         "total": 1000,
+         "category": "expense"
+      },
+      {
+         "name": "bayar tagihan",
+         "total": 500,
+         "category": "income"
+      },
+      {
+         "name": "beli motor",
+         "total": 900,
+         "category": "expense"
+      }
+   ]
+}
